@@ -35,7 +35,7 @@ Para realizar a integração com o Frontend, você pode clonar o projeto e rodar
 
 👉 Desenvolvendo o Frontend com React e Typescript](https://www.youtube.com/@kipperdev)
 
-👉 [Link do repositório](https://github.com/Fernanda-Kipper/frontend-cardapio-digital)
+👉 [Link do repositório](https://github.com/Calleb21/frontend-cardapio-digital.git)
 
 
 <h2 id="related">📝 Licença</h2>
